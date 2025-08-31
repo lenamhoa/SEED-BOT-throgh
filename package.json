@@ -1,13 +1,11 @@
 {
   "name": "seedbot",
+  "private": true,
   "version": "1.0.0",
-  "main": "bot.js",
-  "type": "module",
-  "scripts": {
-    "start": "node bot.js"
+  "devDependencies": {
+    "wrangler": "3.80.0"
   },
-  "dependencies": {
-    "express": "^4.19.2",
-    "node-telegram-bot-api": "^0.66.0"
+  "scripts": {
+    "deploy": "wrangler deploy"
   }
 }
