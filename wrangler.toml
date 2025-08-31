@@ -1,3 +1,4 @@
-name = "seed-bot"
+# wrangler.toml
+name = 'fancy-breeze-6a93'
 main = "src/worker.js"
 compatibility_date = "2025-08-31"
