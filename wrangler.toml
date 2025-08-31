@@ -1,4 +1,4 @@
 # wrangler.toml
 name = 'fancy-breeze-6a93'
 main = "src/worker.js"
-compatibility_date = "2025-09-01"
+compatibility_date = "2024-09-01"
