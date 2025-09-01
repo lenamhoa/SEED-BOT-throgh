@@ -9,3 +9,4 @@ commit " chạyyyy"
 commnit " chạy dùm đi "
 chạyaaaaaaa
 😀
+🤡- chạy dùm tao gemini
