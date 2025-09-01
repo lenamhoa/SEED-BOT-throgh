@@ -10,3 +10,4 @@ commnit " chạy dùm đi "
 chạyaaaaaaa
 😀
 🤡- chạy dùm tao gemini
+commit redeploy - #1 
