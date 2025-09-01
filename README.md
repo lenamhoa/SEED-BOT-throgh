@@ -12,3 +12,4 @@ chạyaaaaaaa
 🤡- chạy dùm tao gemini
 commit redeploy - #1 
 ok
+tạo fallback openAI khi limit GEMINI
